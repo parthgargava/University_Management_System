@@ -1,0 +1,18 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package business.facilities;
+
+/**
+ *
+ * @author Parth
+ */
+public class Facilities {
+ 
+    String facilityName;
+    String openTimings;
+    String closeTimings;
+    
+}
